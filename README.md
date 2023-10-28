@@ -23,9 +23,9 @@ Once that's taken care of, here are the steps necessary to get it running locall
 
 If everything worked, you should now have a local server running at http://localhost:4000. The `w` flag means the server will watch for changes and rebuild, so you can edit the site as needed and see the updated version in your browser right away.
 
-## Instalation notes
+## Installation notes
 
-The current site is only compatible with Ruby 2.7.1.
+The current site is only compatible with Ruby 2.7.4, which is the current version supported by [GitHub Pages](https://pages.github.com). See [GitHub Pages Dependency versions](https://pages.github.com/versions/) for details.
 
 Using `apt` on Ubuntu 22.04 will install Ruby 3.0, to install a previous version you can use the following instructions:
 
