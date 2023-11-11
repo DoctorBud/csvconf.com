@@ -3,7 +3,7 @@
  <head>
   <title>csv,conf,v8</title>
   <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,500" rel="stylesheet">
-  <link href="/css/style.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/css/style.css" rel="stylesheet">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="twitter:image" content="https://csvconf.com/img/llama2019.jpeg">
@@ -18,7 +18,11 @@
 
  <body class="pantone-2023-theme">
 
-  {% include header.html %}
+  {% capture local_baseurl %}{{ site.baseurl }}{% endcapture %}
+
+  <h1>local_baseurl: {{ local_baseurl}}</h1>
+
+  {% include header.html baseurl=local_baseurl %}
 
   <div class="{% if page.class %}{{ page.class }}{% endif %}">
    {{ content }}
