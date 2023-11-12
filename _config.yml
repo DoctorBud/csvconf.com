@@ -2,5 +2,3 @@ markdown: kramdown
 
 gems:
  - jekyll-redirect-from
-
-# baseurl: /csvconf.com
