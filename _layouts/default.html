@@ -19,11 +19,12 @@
  <body class="pantone-2023-theme">
 
   {% capture local_baseurl %}{{ site.baseurl }}{% endcapture %}
+
   {% include header.html baseurl=local_baseurl %}
 
   <div class="{% if page.class %}{{ page.class }}{% endif %}">
    {{ content }}
-   {% include footer.html %}
+   {% include footer.html baseurl=local_baseurl %}
   </div>
 
  </body>

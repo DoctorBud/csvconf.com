@@ -1,7 +1,7 @@
 ---
 layout: default-2023
 title: About
-permalink: /2023/2023/about/
+permalink: /2023/about/
 ---
 
 # What is csv,conf?
@@ -18,37 +18,37 @@ Thank you to our generous sponsors for supporting csv,conf,v7!
     <td>
       <div class="second-tagline--info">
         <a href="https://sloan.org/">
-          <img src="/img/sloan.png" alt="Alfred P Sloan Foundation" width="200px">
+          <img src="{{ site.baseurl }}/img/sloan.png" alt="Alfred P Sloan Foundation" width="200px">
         </a>
       </div>
       <div class="second-tagline--info">
         <a href="https://omidyar.com/">
-          <img src="/img/Omidyar-logo.png" alt="Omidyar Network" width="200px">
+          <img src="{{ site.baseurl }}/img/Omidyar-logo.png" alt="Omidyar Network" width="200px">
         </a>
       </div>
       <div class="second-tagline--info">
         <a href="https://chanzuckerberg.com/">
-          <img src="/img/czi.svg" alt="Chan Zuckerberg Initiative" width="200px">
+          <img src="{{ site.baseurl }}/img/czi.svg" alt="Chan Zuckerberg Initiative" width="200px">
         </a>
       </div>
       <div class="second-tagline--info">
         <a href="https://www.r-consortium.org/">
-          <img src="/img/RConsortium.png" alt="R Consortium" width="200px">
+          <img src="{{ site.baseurl }}/img/RConsortium.png" alt="R Consortium" width="200px">
         </a>
       </div>
       <div class="second-tagline--info">
         <a href="https://lincolnloop.com/">
-          <img src="/img/lincoln-loop.png" alt="Lincoln Loop" width="200px">
+          <img src="{{ site.baseurl }}/img/lincoln-loop.png" alt="Lincoln Loop" width="200px">
         </a>
       </div>
       <div class="second-tagline--info">
         <a href="https://datacite.org/">
-          <img src="/img/datacite.png" alt="DataCite" width="200px">
+          <img src="{{ site.baseurl }}/img/datacite.png" alt="DataCite" width="200px">
         </a>
       </div>
       <div class="second-tagline--info">
         <a href="https://opennews.org/">
-          <img src="/img/open-news.png" alt="Open News" width="200px">
+          <img src="{{ site.baseurl }}/img/open-news.png" alt="Open News" width="200px">
         </a>
       </div>
     </td>

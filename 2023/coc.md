@@ -1,17 +1,17 @@
 ---
 layout: default-2023
 title: csv,conf Code of Conduct
-permalink: /2023/2023/coc/
+permalink: /2023/coc/
 ---
 
 This page contains information about:
 
-* [csv,conf Code of Conduct (CoC)](/coc/#conference-code-of-conduct)
-* [CoC enforcement at csv,conf](/coc/#enforcement)
-* [Guidelines on reporting CoC issues](/coc/#reporting)
-* [Information on CoC investigation process](/coc/#investigation)
-* [Our CoC confidentiality statement](/coc/#confidentiality)
-* [Acknowledgements](/coc/#acknowledgements)
+* [csv,conf Code of Conduct (CoC)](#conference-code-of-conduct)
+* [CoC enforcement at csv,conf](#enforcement)
+* [Guidelines on reporting CoC issues](#reporting)
+* [Information on CoC investigation process](#investigation)
+* [Our CoC confidentiality statement](#confidentiality)
+* [Acknowledgements](#acknowledgements)
 
 # Conference Code of Conduct
 

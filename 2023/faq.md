@@ -2,7 +2,7 @@
 layout: default-2023
 title: FAQ for Online Conference
 class: locations
-permalink: /2023/2023/faq/
+permalink: /2023/faq/
 ---
 
 # Conference FAQ
