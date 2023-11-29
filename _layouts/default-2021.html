@@ -3,7 +3,7 @@
  <head>
   <title>csv,conf,v6 - May 4-5 2021 - Online</title>
   <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,500" rel="stylesheet">
-  <link href="/css/style.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/css/style.css" rel="stylesheet">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
@@ -17,24 +17,25 @@
 
  <body class="pantone-2021-theme">
 
-
-<div class="header-2021">
- <h1><a href="/">csv,conf,v6</a></h1>
+<div class="header">
+ <h1><a href="{{ site.baseurl }}/2021/">csv,conf,v6</a></h1>
  <ul class="menu">
+<!--
   <li>
-   <a class="button" href="/" title="home">Home</a>
+   <a class="button" href="{{ site.baseurl }}/" title="home">Home</a>
+  </li>
+ -->
+  <li>
+   <a title="csv,conf,v6 schedule" class="button" href="{{ site.baseurl }}/2021/schedule" target="_blank">Schedule</a>
   </li>
   <li>
-   <a title="csv,conf,v6 schedule" class="button" href="/2021/schedule" target="_blank">Schedule</a>
+   <a title="csv,conf,v6 speakers" class="button" href="{{ site.baseurl }}/2021/speakers" target="_blank">Speakers</a>
   </li>
   <li>
-   <a title="csv,conf,v6 speakers" class="button" href="/2021/speakers" target="_blank">Speakers</a>
-  </li>
-  <li>
-    <a class="button" href="/2021/coc" title="csv,conf,v6 CoC">Code of Conduct</a>
+    <a class="button" href="{{ site.baseurl }}/2021/coc" title="csv,conf,v6 CoC">Code of Conduct</a>
    </li>
    <li>
-    <a class="button" href="/2021/faq" title="csv,conf,v6 FAQ">FAQ</a>
+    <a class="button" href="{{ site.baseurl }}/2021/faq" title="csv,conf,v6 FAQ">FAQ</a>
   </li>
   <li>
      <a class="button" href="https://www.youtube.com/watch?v=bheanFUNV_g&list=PLg5zZXwt2ZW56j8tlEzoSPZPXMRxYLHzu" target="_blank" title="watch 2021 talks">Watch 2021 Talks</a>

@@ -106,13 +106,13 @@ John Chodacki, California Digital Library
 We look forward to hosting you in Buenos Aires next year!
 
 
-![Participants 2019](/img/csv2019.jpeg)
+![Participants 2019]({{ site.baseurl }}/img/csv2019.jpeg)
 
 
 _Participants of csv, conf,v5 (2019) in Portland, USA._
 
 
-![Comma Llama](/img/llama2019.jpeg)
+![Comma Llama]({{ site.baseurl }}/img/llama2019.jpeg)
 
 
 _Rojo the Comma Llama, our official mascot invites you all to join us for the next csv, conf!_
